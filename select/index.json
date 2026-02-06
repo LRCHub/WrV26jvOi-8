@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "First Time",
+  "base_artist": "Vance Joy",
+  "createdAt": "2026-02-06T06:55:17.050326Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feels Like The First Time",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/01_Feels_Like_The_First_Time_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "For The First Time",
+      "artist": "Darius Rucker",
+      "has_synced": true,
+      "path": "select/02_For_The_First_Time_Darius_Rucker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "For the First Time",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/03_For_the_First_Time_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You're The First Time I've Thought About Leaving",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/04_You're_The_First_Time_I've_Thought_About_Leaving_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You're The First Time I've Thought About Leaving (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/05_You're_The_First_Time_I've_Thought_About_Leaving_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "First Time",
+      "artist": "Robin Beck",
+      "has_synced": true,
+      "path": "select/06_First_Time_Robin_Beck.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "First-Time Mother's Joy (Flying)",
+      "artist": "Mercury Rev",
+      "has_synced": true,
+      "path": "select/07_First-Time_Mother's_Joy_(Flying)_Mercury_Rev.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "For the First Time",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/08_For_the_First_Time_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "First Time High (Of Chicago Acoustic Version)",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/09_First_Time_High_(Of_Chicago_Acoustic_Version)_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "First Time High (Reconstructionist Remix of \"An Eluardian Instance\")",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/10_First_Time_High_(Reconstructionist_Remix_of__An_Eluardian_Instance_)_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "First Time High (Re\u0000Deconstructionist JB Remix Of \"An Eluaridian Instance\")",
+      "artist": "Of Montreal",
+      "has_synced": true,
+      "path": "select/11_First_Time_High_(Re\u0000Deconstructionist_JB_Remix_Of__An_Eluaridian_Instance_)_Of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let's Do Everything for the First Time Forever",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/12_Let's_Do_Everything_for_the_First_Time_Forever_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Feels Like The First Time",
+      "artist": "Foreigner",
+      "has_synced": true,
+      "path": "select/13_Feels_Like_The_First_Time_Foreigner.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The First Time",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/14_The_First_Time_U2.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "First Time",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/15_First_Time_Helloween.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "First Time",
+      "artist": "Vance Joy",
+      "has_synced": false,
+      "path": "select/pl_01_First_Time_Vance_Joy.txt"
+    }
+  ]
+}
